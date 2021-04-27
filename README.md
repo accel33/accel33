@@ -28,9 +28,9 @@ Languages and Tools:</h2>
 
 <br>
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a full-stack software developer and writer. I love programming, writing, speaking and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
