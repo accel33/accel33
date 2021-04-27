@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/accel33/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
 
-<br>
+
 
 <h2 align="left"><img alt="Computer" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3577/3577497.svg"/>
 Languages and Tools:</h2>
