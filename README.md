@@ -37,13 +37,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/accel33);
-- 👯 I’m looking to collaborate on
+- 🌱 I’m currently learning Data Structures and Algorithms;
+- 👯 I’m looking to collaborate on Isha Foundation;
 - 🤔 I’m looking for Instagram Post Creators and Blog Writers;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡ I regulary write code for personal proyects
+- ⚡ I regulary write code for personal proyects;
 - 📫 How to reach me: accelmu@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📝 Resume to ask;
 
 </br>
 
