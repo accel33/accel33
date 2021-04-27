@@ -14,18 +14,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working on NextJS
-- 🌱 I’m currently learning Firebase
-- 👯 I’m looking to collaborate on don't know yet
-- 🤔 I’m looking for help with DevOps
-- 💬 Ask me about Life
-- 📫 How to reach me: Here
-- ⚡ Fun fact: Like nature
-
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🌱 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/accel33);
+- 👯 I’m looking to collaborate on
+- 🤔 I’m looking for Instagram Post Creators and Blog Writers;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ I regulary write code for personal proyects
 - 📫 How to reach me: accelmu@gmail.com;
