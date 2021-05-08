@@ -52,7 +52,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   14 mins         ████████████████████████░   96.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
