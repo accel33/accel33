@@ -38,7 +38,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning Data Structures and Algorithms;
-- 👯 I’m looking to collaborate on Isha Foundation;
 - 🤔 I’m looking for Instagram Post Creators and Blog Writers;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ I regulary write code for personal proyects;
