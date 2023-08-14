@@ -44,12 +44,3 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 - 📝 Resume to ask;
 
 </br>
-
-
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
