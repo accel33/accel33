@@ -27,20 +27,18 @@ Languages and Tools:</h2>
 
 <br>
 
-I am a backend nodejs developer and writer. Focus on task automation and performance.
+I am a fullstack nodejs developer. Focus on understanding the underlying problem at hand.
 
-As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software developer, I enjoy the challenges that are given to me on a daily basis at work. Founding solutions to the client's requirements and watching them being reflected on real life scenarios gives me much satisfaction.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
-
-- 🔭 I’m currently working on an educational plataform <a href="https://arcadepapel.net/" target="_blank">Arca de Papel</a>;
-- 🌱 I’m currently learning Data Structures and Algorithms;
-- 🤔 I’m looking for Instagram Post Creators and Blog Writers;
+- 🔭 I’m currently working on an online shopping mall called <a href="https://luxuryclub.pe/" target="_blank">Luxury Club Peru</a> for <a href="https://www.scotiabank.com.pe"> Scotiabank</a>;
+- 🌱 I’m reading the book Node.js Design Patterns;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ I regulary write code for personal proyects;
 - 📫 How to reach me: accelmu@gmail.com;
-- 📝 Resume to ask;
+- 📝 Resume to download <a href="https://drive.google.com/file/d/1K5B5m6gAY-8r2SQXNA1rxpt-kHRQI2Je/view?usp=sharing">click here<a/>;
 
 </br>
