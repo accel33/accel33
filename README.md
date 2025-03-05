@@ -25,9 +25,9 @@ Languages and Tools:</h2>
 
 <br>
 
-I am a fullstack nodejs developer. Focus on understanding the underlying problem at hand.
+I am a backend node developer, focus on writing efficient and clean code.
 
-As a software developer, I enjoy the challenges that are given to me on a daily basis at work. Founding solutions to the client's requirements and watching them being reflected on real life scenarios gives me much satisfaction.
+I enjoy the challenges that I receive at work, founding solutions to the client's or company's requirements and watching them being reflected on real life scenarios it's the best feeling. I want to be better and I will put the effort to become a great developer. Need to read more and write some more code on my freetime tho. Hope I can manage to do that this 2025. Level up as a programmer's year.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
