@@ -25,18 +25,33 @@ Languages and Tools:</h2>
 
 <br>
 
-I am a backend node developer, focus on writing efficient and clean code.
+Backend Developer based in Peru. I build microservices and event-driven systems, currently focused on Java and Spring Boot after several years working with Node.js and TypeScript.
 
-I enjoy the challenges that I receive at work, founding solutions to the client's or company's requirements and watching them being reflected on real life scenarios it's the best feeling. I want to be better and I will put the effort to become a great developer. Need to read more and write some more code on my freetime tho. Hope I can manage to do that this 2025. Level up as a programmer's year.
+🧑‍💻 About me
+🔭 I work on backend systems: microservices, REST APIs, and integrations with external providers, including banking and open finance APIs
+⚙️ Hands-on experience with event-driven architectures: services coordinated through messaging (NATS) and reliable event delivery using the transactional outbox pattern
+🏦 Background in fintech: identity validation, user onboarding, payment flows, and compliance-related processes
+📖 Big fan of clean code and design patterns. I like understanding how things work under the hood, not just making them run
+🌱 Currently going deep into software fundamentals: algorithms, system design, and building Java + Spring Boot projects from scratch
+🛠️ Tech stack
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+Languages: Java (8 to 21), JavaScript, TypeScript, SQL
 
-**Talking about Personal Stuffs:**
-- 🔭 I’m currently working on a digital currency exchange company called <a href="https://kambista.com/" target="_blank">Kambista</a>;
-- 🌱 I’m reading the book Node.js Design Patterns;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡ I regulary write code for personal proyects;
-- 📫 How to reach me: accelmu@gmail.com;
-- 📝 Resume to download <a href="https://drive.google.com/file/d/1K5B5m6gAY-8r2SQXNA1rxpt-kHRQI2Je/view?usp=sharing">click here<a/>;
+Backend: Spring Boot, Spring WebFlux, Node.js
 
+Architecture and messaging: Microservices, event-driven design, NATS, outbox pattern
+
+Environment: Git, Neovim, Tmux
+
+🚀 What you'll find here
+
+Backend projects built from scratch, mostly in Java and Spring Boot: small services with clear domains, clean architecture, and honest commit histories that show how I think and learn.
+
+🌊 Beyond code
+
+When I'm not coding: reading (books and manga), yoga, and quiet life on the Peruvian coast.
+
+📫 Reach me
+LinkedIn: your-linkedin-here
+Email: your@email.com
 </br>
