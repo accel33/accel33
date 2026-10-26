@@ -52,6 +52,6 @@ On progress...
 When I'm not coding: reading (books and manga), yoga, and quiet life on the Peruvian coast.
 
 📫 Reach me
-LinkedIn: [your-linkedin-here](https://www.linkedin.com/in/accel-maeshiro-292a11a0/)
+LinkedIn: [https://www.linkedin.com/in/accel-maeshiro-292a11a0/](https://www.linkedin.com/in/accel-maeshiro-292a11a0/)
 Email: accelmu@gmail.com
 </br>
