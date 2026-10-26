@@ -25,19 +25,19 @@ Languages and Tools:</h2>
 
 <br>
 
-Backend Developer based in Peru. I build microservices and event-driven systems, currently focused on Java and Spring Boot after several years working with Node.js and TypeScript.
+Backend Developer based in Peru. I build microservices and event-driven systems with Node.js and TypeScript.
 
 🧑‍💻 About me
 🔭 I work on backend systems: microservices, REST APIs, and integrations with external providers, including banking and open finance APIs
 ⚙️ Hands-on experience with event-driven architectures: services coordinated through messaging (NATS) and reliable event delivery using the transactional outbox pattern
 🏦 Background in fintech: identity validation, user onboarding, payment flows, and compliance-related processes
 📖 Big fan of clean code and design patterns. I like understanding how things work under the hood, not just making them run
-🌱 Currently going deep into software fundamentals: algorithms, system design, and building Java + Spring Boot projects from scratch
+🌱 Currently going deep into software fundamentals: algorithms, system design, and building Node projects from scratch
 🛠️ Tech stack
 
-Languages: Java (8 to 21), JavaScript, TypeScript, SQL
+Languages: JavaScript, TypeScript, SQL
 
-Backend: Spring Boot, Spring WebFlux, Node.js
+Backend: Node, Express, Nest
 
 Architecture and messaging: Microservices, event-driven design, NATS, outbox pattern
 
@@ -45,13 +45,13 @@ Environment: Git, Neovim, Tmux
 
 🚀 What you'll find here
 
-Backend projects built from scratch, mostly in Java and Spring Boot: small services with clear domains, clean architecture, and honest commit histories that show how I think and learn.
+On progress...
 
 🌊 Beyond code
 
 When I'm not coding: reading (books and manga), yoga, and quiet life on the Peruvian coast.
 
 📫 Reach me
-LinkedIn: your-linkedin-here
-Email: your@email.com
+LinkedIn: [your-linkedin-here](https://www.linkedin.com/in/accel-maeshiro-292a11a0/)
+Email: accelmu@gmail.com
 </br>
