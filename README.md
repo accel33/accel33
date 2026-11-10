@@ -25,32 +25,36 @@ Languages and Tools:</h2>
 
 <br>
 
-Backend Developer based in Peru. I build microservices and event-driven systems with Node.js and TypeScript.
+**Backend Developer from Peru.** I build microservices and event-driven systems with Node.js and TypeScript, mostly in fintech.
 
 ## 🧑‍💻 About me
 
-- 🔭 I work on backend systems: microservices, REST APIs, and integrations with external providers, including banking and open finance APIs
-- ⚙️ Hands-on experience with event-driven architectures: services coordinated through messaging (NATS) and reliable event delivery using the transactional outbox pattern
-- 🏦 Background in fintech: identity validation, user onboarding, payment flows, and compliance-related processes
-- 📖 Big fan of clean code and design patterns. I like understanding how things work under the hood, not just making them run
-- 🌱 Currently going deep into software fundamentals: algorithms, system design, and building Node projects from scratch
+- 🔭 I design and build backend services: microservices, REST APIs, and integrations with third-party providers, including banking and open finance APIs
+- ⚙️ I work with event-driven architectures: services that communicate over NATS, with the transactional outbox pattern to guarantee event delivery
+- 🏦 My fintech work covers identity validation, user onboarding, payment flows, and AML/compliance processes
+- 📖 I find interest in how things work under the hood. I lean toward clean architecture to keep services easy to change and test
 
 ## 🛠️ Tech stack
 
-- **Languages:** JavaScript, TypeScript, SQL
-- **Backend:** Node, Express, Nest
-- **Architecture and messaging:** Microservices, event-driven design, NATS, outbox pattern
-- **Environment:** Git, Neovim, Tmux
+- **Languages:** TypeScript, JavaScript
+- **Backend:** Node.js, NestJS, Express
+- **Databases:** MongoDB, PostgreSQL
+- **Infrastructure:** Docker, AWS
+- **Tools:** Git, Neovim, tmux
 
 ## 🚀 What you'll find here
 
-Work in progress...
+- Node.js projects built from scratch
+- Algorithms and data structures practice
+- System design studies
+
+More repos are on the way.
 
 ## 🌊 Beyond code
 
-When I'm not coding: reading (books and manga), yoga, and quiet life on the Peruvian coast.
+Books, meeting new people, learn about interesting things.
 
 ## 📫 Reach me
 
 - [LinkedIn](https://www.linkedin.com/in/accel-maeshiro-292a11a0/)
-- [Email](mailto:accelmu@gmail.com)
+- [accelmu@gmail.com](mailto:accelmu@gmail.com)
