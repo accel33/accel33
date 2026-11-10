@@ -27,32 +27,30 @@ Languages and Tools:</h2>
 
 Backend Developer based in Peru. I build microservices and event-driven systems with Node.js and TypeScript.
 
-🧑‍💻 About me
-🔭 I work on backend systems: microservices, REST APIs, and integrations with external providers, including banking and open finance APIs
-⚙️ Hands-on experience with event-driven architectures: services coordinated through messaging (NATS) and reliable event delivery using the transactional outbox pattern
-🏦 Background in fintech: identity validation, user onboarding, payment flows, and compliance-related processes
-📖 Big fan of clean code and design patterns. I like understanding how things work under the hood, not just making them run
-🌱 Currently going deep into software fundamentals: algorithms, system design, and building Node projects from scratch
-🛠️ Tech stack
+## 🧑‍💻 About me
 
-Languages: JavaScript, TypeScript, SQL
+- 🔭 I work on backend systems: microservices, REST APIs, and integrations with external providers, including banking and open finance APIs
+- ⚙️ Hands-on experience with event-driven architectures: services coordinated through messaging (NATS) and reliable event delivery using the transactional outbox pattern
+- 🏦 Background in fintech: identity validation, user onboarding, payment flows, and compliance-related processes
+- 📖 Big fan of clean code and design patterns. I like understanding how things work under the hood, not just making them run
+- 🌱 Currently going deep into software fundamentals: algorithms, system design, and building Node projects from scratch
 
-Backend: Node, Express, Nest
+## 🛠️ Tech stack
 
-Architecture and messaging: Microservices, event-driven design, NATS, outbox pattern
+- **Languages:** JavaScript, TypeScript, SQL
+- **Backend:** Node, Express, Nest
+- **Architecture and messaging:** Microservices, event-driven design, NATS, outbox pattern
+- **Environment:** Git, Neovim, Tmux
 
-Environment: Git, Neovim, Tmux
+## 🚀 What you'll find here
 
-🚀 What you'll find here
+Work in progress...
 
-On progress...
-
-🌊 Beyond code
+## 🌊 Beyond code
 
 When I'm not coding: reading (books and manga), yoga, and quiet life on the Peruvian coast.
 
-📫 Reach me
+## 📫 Reach me
 
-- LinkedIn: [https://www.linkedin.com/in/accel-maeshiro-292a11a0/](https://www.linkedin.com/in/accel-maeshiro-292a11a0/)
-- Email: [accelmu@gmail.com](mailto:accelmu@gmail.com)
-</br>
+- [LinkedIn](https://www.linkedin.com/in/accel-maeshiro-292a11a0/)
+- [Email](mailto:accelmu@gmail.com)
